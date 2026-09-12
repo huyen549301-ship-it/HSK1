@@ -82,25 +82,25 @@
   {
     "lesson_id": 8,
     "vocabulary": [
-      {"word": "muốn", "meaning": "想"},
-      {"word": "uống", "meaning": "喝"},
-      {"word": "trà", "meaning": "茶"},
-      {"word": "ăn", "meaning": "吃"},
-      {"word": "cơm trắng", "meaning": "米饭"},
-      {"word": "chiều", "meaning": "下午"},
-      {"word": "cửa hàng", "meaning": "商店"},
-      {"word": "mua", "meaning": "买"},
-      {"word": "bán", "meaning": "卖"},
-      {"word": "cái", "meaning": "个"},
-      {"word": "cái cốc, cái ly", "meaning": "杯子"},
-      {"word": "ly, cốc (lượng từ)", "meaning": "杯"},
-      {"word": "đây, này", "meaning": "这"},
-      {"word": "bao nhiêu", "meaning": "多少"},
-      {"word": "tiền", "meaning": "钱"},
-      {"word": "tệ (đơn vị tiền)", "meaning": "块"},
-      {"word": "cái này", "meaning": "这个"},
-      {"word": "cái kia", "meaning": "那个"},
-      {"word": "kia, đó", "meaning": "那"}
+      {"word": "想", "meaning": "muốn"},
+      {"word": "喝", "meaning": "uống"},
+      {"word": "茶", "meaning": "trà"},
+      {"word": "吃", "meaning": "ăn"},
+      {"word": "米饭", "meaning": "cơm trắng"},
+      {"word": "下午", "meaning": "(buổi) chiều"},
+      {"word": "商店", "meaning": "cửa hàng"},
+      {"word": "买", "meaning": "mua"},
+      {"word": "卖", "meaning": "bán"},
+      {"word": "个", "meaning": "cái"},
+      {"word": "杯子", "meaning": "cái cốc, cái ly"},
+      {"word": "杯", "meaning": "ly, cốc (lượng từ)"},
+      {"word": "这", "meaning": "này, đây"},
+      {"word": "多少", "meaning": "bao nhiêu"},
+      {"word": "钱", "meaning": "tiền"},
+      {"word": "块", "meaning": "tệ (đơn vị tiền)"},
+      {"word": "这个", "meaning": "cái này"},
+      {"word": "那个", "meaning": "cái kia"},
+      {"word": "那", "meaning": "đó, kia"}
     ],
     "arrange_sentences": [
       {"word": "Cái cốc này bao nhiêu tiền", "meaning_words": ["这个", "杯子", "多少", "钱"]},
@@ -124,8 +124,8 @@
   {
     "lesson_id": 9,
     "vocabulary": [
-      {"word": "ông", "meaning": "爷爷、外公"},
-      {"word": "cháu gái", "meaning": "孙女、外孙女"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]},
@@ -135,8 +135,8 @@
   {
     "lesson_id": 10,
     "vocabulary": [
-      {"word": "rảnh", "meaning": "有空、空闲"},
-      {"word": "liên hoan", "meaning": "联欢、宴会"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]}
@@ -145,8 +145,8 @@
   {
     "lesson_id": 11,
     "vocabulary": [
-      {"word": "nghe nhạc", "meaning": "听音乐"},
-      {"word": "...lắm", "meaning": "太 (用于夸奖、描述事实。客观描述程度）"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]}
@@ -155,8 +155,8 @@
   {
     "lesson_id": 12,
     "vocabulary": [
-      {"word": "đi thẳng", "meaning": "直走"},
-      {"word": "mất bao lâu", "meaning": "要多远"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]},
@@ -166,8 +166,8 @@
   {
     "lesson_id": 13,
     "vocabulary": [
-      {"word": "chợ", "meaning": "市场"},
-      {"word": "công ty", "meaning": "公司"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]}
@@ -176,8 +176,8 @@
     {
     "lesson_id": 14,
     "vocabulary": [
-      {"word": "đi thẳng", "meaning": "直走"},
-      {"word": "mất bao lâu", "meaning": "要多远"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]},
@@ -187,8 +187,8 @@
     {
     "lesson_id": 15,
     "vocabulary": [
-      {"word": "đi thẳng", "meaning": "直走"},
-      {"word": "mất bao lâu", "meaning": "要多远"}
+      {"word": "", "meaning": ""},
+      {"word": "", "meaning": ""}
     ],
     "arrange_sentences": [
       {"word": "我叫阿兰", "meaning_words": ["Tôi", "tên là", "Lan"]},
